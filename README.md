@@ -21,7 +21,6 @@ The **Article Card** component is designed to showcase articles with an image, t
 - **CSS**: Styles the component to create a visually appealing and responsive design.
 - **JavaScript**: (Optional) Can be used for additional interactivity, such as expanding content on click or integrating with other components.
 
-
 ## Installation
 
 To get started with the project, follow these steps:

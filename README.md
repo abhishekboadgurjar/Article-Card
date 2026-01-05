@@ -27,7 +27,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekboadgurjar/Article-Card.git
+    git clone https://github.com/abhishekgurjarin/Article-Card.git
     ```
 
 2. **Open the project directory**:
@@ -48,7 +48,7 @@ To get started with the project, follow these steps:
 
 ## Live Demo
 
-You can check out the live demo of the Article Card project [here](https://abhishekboadgurjar.github.io/Article-Card/).
+You can check out the live demo of the Article Card project [here](https://abhishekgurjarin.github.io/Article-Card/).
 
 ## Screenshots
 ![Screenshot 2024-09-03 110512](https://github.com/user-attachments/assets/003d8928-bb7b-47b4-b713-cfa536bb278d)
@@ -65,5 +65,5 @@ This project was developed as part of my continuous learning journey in web deve
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekboadgurjar)
+  - [GitHub Profile](https://github.com/abhishekgurjarin)
 
